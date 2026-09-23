@@ -1,0 +1,1 @@
+> IMPORTANT : I use a secondary phone for this setup. This phone dosent have payment apps or authentication apps. Please minded that doing this setup without thorough understanding of the setup may lead to security, reliability issues
